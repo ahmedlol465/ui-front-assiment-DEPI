@@ -1,4 +1,3 @@
-file:///home/ahmed/Documents/all%20project%20in%20react%20arabic/next-app/README.md
 # <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="40" height="40"/> Figma UI Clone
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -26,3 +25,7 @@ This project meticulously recreates a user interface design from Figma using HTM
 
    ```bash
    git clone https://github.com/ahmedlol465/ui-front-assiment-DEPI.git
+
+
+   2. **Link of Project:**
+   https://ui-front-assiment-depi-qknw6rxey.vercel.app/
